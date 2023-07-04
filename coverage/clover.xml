@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1688461042482" clover="3.2.0">
+  <project timestamp="1688461042482" name="All files">
+    <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="2" methods="3" coveredmethods="3" elements="11" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="3" files="3" classes="3"/>
+    <package name="TodoList">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.vue" path="C:\Users\Administrator\Desktop\未来星\jest-vue\src\views\TodoList\index.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="TodoList.components.TodoListHeader">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.vue" path="C:\Users\Administrator\Desktop\未来星\jest-vue\src\views\TodoList\components\TodoListHeader\index.vue">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="40" type="cond" truecount="2" falsecount="1"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="TodoList.components.UndoList">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.vue" path="C:\Users\Administrator\Desktop\未来星\jest-vue\src\views\TodoList\components\UndoList\index.vue">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="22" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

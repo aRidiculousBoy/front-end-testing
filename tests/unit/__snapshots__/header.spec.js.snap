@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todolist-Header组件测试 Header样式发生改变时，做出提示 1`] = `
+<div class="header">
+  <div class="text">TodoList</div> <input type="text" data-test="search" placeholder="TodoItem">
+</div>
+`;
